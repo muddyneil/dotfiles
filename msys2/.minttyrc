@@ -1,0 +1,10 @@
+CursorType=underscore
+Font=Cascadia Mono
+FontHeight=12
+ThemeFile=gruvbox
+Rows=50
+Columns=80
+Scrollbar=none
+Term=xterm
+X=0
+Y=0

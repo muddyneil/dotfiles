@@ -1,0 +1,4 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont
+Modify the key value of 936
+Original：*新宋体
+New：YaHei ConSolas Hybrid

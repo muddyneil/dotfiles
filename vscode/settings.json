@@ -1,0 +1,34 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Cousine,Consolas,'Courier New',monospace",
+    "update.showReleaseNotes": false,
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "extensions.ignoreRecommendations": true,
+    "security.workspace.trust.enabled": false,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "telemetry.telemetryLevel": "off",
+    "workbench.enableExperiments": false,
+    "editor.minimap.enabled": false,
+    "zenMode.hideLineNumbers": false,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "clangd.path": "C:\\msys64\\clang64\\bin\\clangd.exe",
+    "clangd.arguments": [
+        "--query-driver=C:\\msys64\\clang64\\bin\\clang*",
+        "--compile-commands-dir=${workspaceFolder}/build/",
+        "--background-index",
+        "--query-driver=/usr/bin/clang++",
+        "--all-scopes-completion",
+        "--completion-style=detailed",
+        "--pch-storage=disk"
+    ],
+    "clang.cflags": [
+        "-std=c11"
+    ],
+    "clangd.fallbackFlags": [
+        "-IC:\\msys64\\mingw64\\include\\"
+    ],
+    "editor.rulers": [
+        80
+    ]
+}

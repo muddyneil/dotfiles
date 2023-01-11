@@ -1,0 +1,7 @@
+[user]
+	name = muddyneil
+	email = smilencry@163.com
+[init]
+	defaultBranch = main
+[safe]
+	directory = *
